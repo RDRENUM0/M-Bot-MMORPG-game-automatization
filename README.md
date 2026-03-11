@@ -27,7 +27,3 @@ i wiele więcej
    - Przeglądarka Google Chrome.
    - Odpowiednia wersja [ChromeDriver](https://chromedriver.chromium.org/downloads).
 
-2. **Klonowanie:**
-   ```bash
-   git clone [https://github.com/TWOJA-NAZWA/margonem-bot.git](https://github.com/TWOJA-NAZWA/margonem-bot.git)
-   cd margonem-bot
